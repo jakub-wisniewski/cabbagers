@@ -1,3 +1,9 @@
 ---
-layout: front
+layout: home
+title: "Rolly Sanchez"
 ---
+
+{% capture separator %} {{site.skill_separator}} {% endcapture %}
+{% for skills in site.data.skills %}
+<div class="tagline">{{ skills | join: separator }}</div>
+{% else %} The skills is empty. {% endfor %}
