@@ -9,6 +9,7 @@ body {
   color: $light-gray-color;
   line-height: 2.0rem;
   background-color: $code-background-dark-color;
+  background-image: url('/images/cabbagers_background.jpg')
 }
 
 @media (max-width: $elements-responsive-width) {
