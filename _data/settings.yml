@@ -17,7 +17,7 @@ social:
 - {icon: 'youtube',    link: 'https://www.youtube.com/@cabbagers'}
 - {icon: 'twitter',    link: 'https://twitter.com/cabbagersgame'}
 - {icon: 'instagram',    link: 'https://www.instagram.com/cabbagersgame'}
-- {icon: 'tiktok',    link: 'https://www.tiktok.com/@cabbagersgame'}
+# - {icon: 'tiktok',    link: 'https://www.tiktok.com/@cabbagersgame'}
 - {icon: 'reddit',    link: 'https://www.reddit.com/user/cabbagersgame'}
 # - {icon: 'steam',    link: 'https://steamcommunity.com/id/defuncthorizon/'}
 - {icon: 'envelope',   link: 'mailto:jakubwisniewski@defuncthorizon.com'}
