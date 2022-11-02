@@ -25,19 +25,6 @@
 */
 
 .header {
-  background: rgba(0, 0, 0, .5);
-  background-image: url('{{ site.baseurl }}/img/cabbagers_background.jpg');
-  background-blend-mode: darken;
-  /* The image used */
-  background-image: url("img_girl.jpg");
-
-  /* Full height */
-  height: 100%; 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   margin: 0;
   position: absolute;
   top: 50%;
