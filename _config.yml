@@ -20,7 +20,7 @@ permalink:           pretty
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-url: "https://defuncthorizon.com"
+url: "https://cabbagers.com"
 title:		           'Cabbagers'
 description:	       ''
 author:              'Defunct Horizon'

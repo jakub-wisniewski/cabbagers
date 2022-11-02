@@ -9,15 +9,15 @@ google-ID: 'UA-112060364-1'
 menu:
 # - {name: 'About',   url: 'about.html'}
 # - {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+# - {name: 'Contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 # - {icon: 'github',     link: 'https://www.github.com/lenpaul'}
-- {icon: 'twitter',    link: 'https://twitter.com/defuncthorizon'}
-- {icon: 'youtube',    link: 'https://www.youtube.com/channel/UCZW0Z-o_kr6G5C7qTBGNGVA'}
-- {icon: 'reddit',    link: 'https://www.reddit.com/user/defuncthorizon'}
-- {icon: 'instagram',    link: 'https://www.instagram.com/defunct_horizon'}
+- {icon: 'twitter',    link: 'https://twitter.com/cabbagersgame'}
+- {icon: 'youtube',    link: 'https://www.youtube.com/@cabbagers'}
+- {icon: 'reddit',    link: 'https://www.reddit.com/user/cabbagersgame'}
+- {icon: 'instagram',    link: 'https://www.instagram.com/cabbagersgame'}
 - {icon: 'steam',    link: 'https://steamcommunity.com/id/defuncthorizon/'}
 - {icon: 'envelope',   link: 'mailto:jakubwisniewski@defuncthorizon.com'}
 # - {icon: 'rss-square', link: '/feed.xml'}
