@@ -9,7 +9,15 @@ body {
   color: $light-gray-color;
   line-height: 2.0rem;
   background-color: $code-background-dark-color;
-  background-image: url('/images/cabbagers_background.jpg')
+  background: rgba(0, 0, 0, .5);
+  background-image: url('/images/cabbagers_background.jpg');
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media (max-width: $elements-responsive-width) {
