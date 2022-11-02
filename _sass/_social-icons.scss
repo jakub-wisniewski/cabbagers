@@ -36,6 +36,12 @@
   @include social-media-icon($youtube-color, $icon-transition-time);
 }
 
+.fa-tiktok {
+  padding: 5px;
+  @include social-media-icon($github-color, $icon-transition-time);
+
+}
+
 .fa-reddit {
   padding: 5px;
   @include social-media-icon($reddit-color, $icon-transition-time);
