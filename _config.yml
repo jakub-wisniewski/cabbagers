@@ -22,7 +22,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 url: "https://cabbagers.com"
 title:		           'Cabbagers'
-description:	       'Multiplayer combat game with a crazy humor. Coming soon to Steam. '
+description:	       'Multiplayer combat game with a crazy humor. Coming soon to Steam.'
 author:              'Defunct Horizon'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
